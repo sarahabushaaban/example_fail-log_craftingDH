@@ -1,4 +1,4 @@
-# Week 1 fail log
+# Week 1 Fail Log
 I'm excited to start this course. Prior to my decision to register, I explored the course manual online, and the concept of 'productive failure' was really intriguing to me. I think it can be applied in a lot of different contexts, and I have sometimes had a tendency to undervalue my failures instead of actively learning from them. This class is really promising for me in that it may allow me to learn from those mistakes and track my growth. 
 
 # First Annotation
