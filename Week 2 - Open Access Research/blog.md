@@ -1,3 +1,5 @@
+<h1> Week 2 Blog </h1>
+
 The readings this week were primarily to do with digital humanities scholars that have a *whole hearted openness* to open access research. They allowed me to understand the ways technology have merged with history to enrich the discipline. [Ian Milligan's discussion](https://ianmilligan.ca/2014/01/27/why-canadas-open-data-initiative-matters-to-historians/) was most interesting to me because the combination of visual and textual concepts clarified what the process looks like from start to finish, and how a simple data set could answer a variety of questions with the input of the digital historian. 
 
 After I did the readings, I proceeded to do the exercises. 
