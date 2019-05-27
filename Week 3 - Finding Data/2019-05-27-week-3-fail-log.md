@@ -1,4 +1,4 @@
-<p>&lt;1&gt;Module 2 Exercises&lt;/h1&gt;</p>
+# Module 2 Exercises
 <ul>
 <li>The Dream Case</li>
 <li>Wget</li>
@@ -7,12 +7,16 @@
 <li>Collecting data from Twitter</li>
 <li>Coverting images to text with Tesseract</li>
 </ul>
-<p>&lt;h3&gt;The Dream Case&lt;/h3&gt;</p>
+
+### The Dream Case
+
 <ul>
 <li>I faced far more difficulties in this first exercise than I could&rsquo;ve imagined for something that looked fairly straightforward. I wasn&rsquo;t sure whether I was to lodge my history into the dhbox-work-today file, but I did initially.</li>
 <li>Then, I came into some confusion about whether I was meant to format my file as markdown, or to leave it in HTML, but ultimately decided to leave it in HTML because it appeared to be a suitable format.</li>
 </ul>
-<p><br />&lt;h3&gt;Wget&lt;/h3&gt;</p>
+
+### Wget
+
 <ul>
 <li>-r : Recursive retrieval; retrieves links from the websites, but also links that exist within those links&hellip; therefore, it can accumulate a lot, too much links, not specific enough. </li>
 <li>--no-parent/-np : limits search to those links within the website domain (e.g. activehistory.ca/papers/(hierarchy) )</li>
@@ -30,13 +34,18 @@
 <li>Then, input command($) wget -i urls.txt -r --no-parent -nd -w 2 --limit-rate=100k to download urls from urls.txt</li>
 <li>$ls to make sure the files were actually downloaded</li>
 </ul>
-<p>&lt;h3&gt;Writing a program to extract data from a webpage&lt;/h3&gt;</p>
+
+### Writing a program to extract data from a webpage
+
 <ul>
 <li>Pay critical attention to closing &lt;&gt; all tags</li>
 <li>Use Firefox, not Safari or Google Chrome to view xml file</li>
 </ul>
-<p>&lt;h3&gt;Collecting data from Twitter&lt;/h3&gt;</p>
-<p>&lt;h3&gt;Converting images to text with Tesseract&lt;/h3&gt;</p>
+
+### Collecting data from twitter
+
+### Converting images to text with Tesseract
+
 <ul>
 <li>$ mkdir ocr-test: Created a new directory, ocr-test</li>
 <li>$ sudo apt-get install tesseract-ocr: installed Tesseract into DH Box</li>
@@ -53,7 +62,9 @@
 <li>RStudio -&gt; run install.packages lines in script, then library lines to load libraries, then run each line until image_ocr(); run the last line write.table() to export OCR to text file</li>
 <li>output.txt and R.txt downloaded</li>
 </ul>
-<p><br />&lt;h2&gt;Comments&lt;/h2&gt;</p>
+
+## Comments and Concerns
+
 <ul>
 <li>Via Rail&rsquo;s wifi is not the best. Maybe doing readings on the train could work sometimes - less likely if there are any images in the links. My patience will definitely be tested doing the exercises &amp; using the VPN on this signal. </li>
 </ul>
