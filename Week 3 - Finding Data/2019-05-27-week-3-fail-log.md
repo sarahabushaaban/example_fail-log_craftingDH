@@ -44,6 +44,17 @@
 
 ### Collecting data from twitter
 
+<ul>
+  <li>Consumer key, secret consumer key, generated access token, in text file on desktop.</li>
+  <li>Used <a href="https://mybinder.org/v2/gh/o-date/social-media-work/master">this link</a> to access Jupyter binder</li>
+  <li>$ twarc configure, then input consumer key, secret consumer key, and authentication code</li>
+  <li>$ twarc search electricarchaeo: collected tweet data from Dr. Graham's account</li>
+  <li>$ twarc search electricarchaeo > electricarchaeo.jsonl: saved information to a file</li>
+  <li>$ git clone https://github.com/DocNow/twarc: extracts source code from Twarc</li>
+  <li>$ twarc/utils/wordcloud.py electricarchaeo.jsonl > wordcloud.html: creates wordcloud graphic using the data compiled in electricarchaeo.jsonl (Dr. Graham's tweets) but I couldn't see it because I was using Chrome. For future reference it is better to use Firefox when completing these exercises.</li>
+  <li>Download data before closing program or else data will be lost.</li>
+  </ul>
+    
 ### Converting images to text with Tesseract
 
 <ul>
